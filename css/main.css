@@ -19,3 +19,31 @@ html {
 body {
   margin: 0;
 }
+
+p {
+  font-family: "Open Sans", sans-serif;
+}
+
+.water {
+  font-family: "Rammetto One", cursive;
+}
+
+.star {
+  font-family: "Gravitas One", cursive;
+}
+
+.persi {
+  font-family: Comfortaa, cursive;
+}
+
+.pink {
+  background-color: #e97065;
+}
+
+.yellow {
+  background-color: #fbd25e;
+}
+
+.orange {
+  background-color: #e86033;
+}
